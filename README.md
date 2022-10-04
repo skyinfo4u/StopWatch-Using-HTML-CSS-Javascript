@@ -1,3 +1,3 @@
 # StopWatch-Using-HTML-CSS-Javascript
-
-<img src=front.png/>
+<h2>Front Page Our Project! </h2>
+<img src=front.png>
